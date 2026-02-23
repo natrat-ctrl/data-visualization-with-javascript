@@ -7,10 +7,10 @@ Interactive data visualizations built with **D3.js** using real-world weather da
 ## 📸 Preview
 
 ### Line Chart
-![Line Chart](./Assets/Screenshots/LineChart.png)
+![Line Chart](Data_viz/Datastuff-main/Projects/Assets/Screenshots/LineChart.png)
 
 ### Scatter Plot
-![Scatter Plot](./Assets/Screenshots/ScatterPlot.png)
+![Scatter Plot](Data_viz/Datastuff-main/Projects/Assets/Screenshots/ScatterPlot.png)
 
 ---
 
@@ -44,8 +44,8 @@ Interactive histogram that displays distributions of different weather metrics. 
 ## Project Structure
 
 ```
-project/
-├── Assets/
+Projects/
+├── Assets/Screenshots/
 │   ├── LineChart.png
 │   └── ScatterPlot.png
 ├── data/
@@ -66,4 +66,5 @@ project/
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+
 
