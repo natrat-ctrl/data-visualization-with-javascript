@@ -7,10 +7,10 @@ Interactive data visualizations built with **D3.js** using real-world weather da
 ## 📸 Preview
 
 ### Line Chart
-![Line Chart](Assets/LineChart.png)
+![Line Chart](Assets/Screenshots/LineChart.png)
 
 ### Scatter Plot
-![Scatter Plot](Assets/ScatterPlot.png)
+![Scatter Plot](Assets/Screenshots/ScatterPlot.png)
 
 ---
 
